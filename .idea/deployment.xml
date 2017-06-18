@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="ZeroW" uploadOnCheckin="8acd1c4e-36f5-4a0d-a42c-466ff97eac00">
+    <serverData>
+      <paths name="ZeroW">
+        <serverdata>
+          <mappings>
+            <mapping deploy="projects/GraphQLServer" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="ZeroW" />
+  </component>
+</project>

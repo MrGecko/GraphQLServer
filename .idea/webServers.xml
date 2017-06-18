@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8acd1c4e-36f5-4a0d-a42c-466ff97eac00" name="ZeroW" url="http://192.168.0.13">
+        <fileTransfer host="192.168.0.13" port="22" rootFolder="/home/pi/dev" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
